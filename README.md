@@ -9,9 +9,9 @@
 
 ## What does it do?
 
-League of Legends MCP Server connects AI assistants to LoL data via the Riot Games API. **25 tools** for player profiles, ranked stats, match history, champion mastery, live game detection, league standings, Clash tournaments, challenges — plus **AI-powered performance analysis and coaching**.
+League of Legends MCP Server connects AI assistants to LoL data via the Riot Games API. **25 tools** for player profiles, ranked stats, match history, champion mastery, live game detection, league standings, Clash tournaments, challenges - plus **AI-powered performance analysis and coaching**.
 
-**No Riot API key needed** — the server includes a built-in key.
+**No Riot API key needed** - the server includes a built-in key.
 
 ## Available Tools
 

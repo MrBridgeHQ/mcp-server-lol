@@ -1,7 +1,7 @@
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { z } from "zod";
 
-// League of Legends MCP Server — Tool declarations
+// League of Legends MCP Server - Tool declarations
 // Full implementation runs on Apify Standby: https://apify.com/mrbridge/lol-mcp-server?fpr=mrbridge
 
 const server = new McpServer({
